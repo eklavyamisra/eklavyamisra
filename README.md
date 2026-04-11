@@ -12,8 +12,6 @@
 
 ---
 
-<!-- 🧠 ABOUT (NEXT LEVEL STYLE) -->
-
 <h2 align="center">🧠 Who Am I?</h2>
 
 ```js
@@ -28,8 +26,6 @@ const naman = {
 
 ---
 
-<!-- ⚡ TECH STACK -->
-
 <h2 align="center">⚡ Tech Arsenal</h2>
 
 <p align="center">
@@ -38,48 +34,42 @@ const naman = {
 
 ---
 
-<!-- 🚀 PROJECTS (INSANE STYLE) -->
-
 <h2 align="center">🚀 Featured Builds</h2>
 
 <p align="center">
 
-<a href="https://github.com/YOUR_USERNAME">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=perplexity-clone&theme=tokyonight&hide_border=true" />
+<a href="https://github.com/eklavyamisra">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=eklavyamisra&repo=perplexity-clone&theme=tokyonight&hide_border=true" />
 </a>
 
-<a href="https://github.com/YOUR_USERNAME">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=ecommerce-cart&theme=tokyonight&hide_border=true" />
+<a href="https://github.com/eklavyamisra">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=eklavyamisra&repo=ecommerce-cart&theme=tokyonight&hide_border=true" />
 </a>
 
 </p>
 
 <p align="center">
 
-<a href="https://github.com/YOUR_USERNAME">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=feedback-app&theme=tokyonight&hide_border=true" />
+<a href="https://github.com/eklavyamisra">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=eklavyamisra&repo=feedback-app&theme=tokyonight&hide_border=true" />
 </a>
 
 </p>
 
 ---
-
-<!-- 📊 ANALYTICS -->
 
 <h2 align="center">📊 GitHub Intelligence</h2>
 
 <p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=eklavyamisra&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=eklavyamisra&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=eklavyamisra&theme=tokyo-night&hide_border=true" />
 </p>
 
 ---
-
-<!-- 🧩 DIFFERENTIATOR -->
 
 <h2 align="center">🧩 Why Me?</h2>
 
@@ -92,40 +82,32 @@ const naman = {
 
 ---
 
-<!-- 🌐 CONNECT -->
-
 <h2 align="center">🌐 Let's Connect</h2>
 
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN">
-    <img src="https://img.shields.io/badge/LinkedIn-00F7FF?style=for-the-badge&logo=linkedin&logoColor=black"/>
-  </a>
-  <a href="mailto:YOUR_EMAIL">
+  <a href="mailto:eklavyamisra2@gmail.com">
     <img src="https://img.shields.io/badge/Email-00F7FF?style=for-the-badge&logo=gmail&logoColor=black"/>
   </a>
+  <a href="https://github.com/eklavyamisra">
+    <img src="https://img.shields.io/badge/GitHub-00F7FF?style=for-the-badge&logo=github&logoColor=black"/>
+  </a>
 </p>
 
 ---
-
-<!-- 👁️ VISITORS -->
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=PROFILE+VIEWS&color=00F7FF&style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=eklavyamisra&label=PROFILE+VIEWS&color=00F7FF&style=for-the-badge" />
 </p>
 
 ---
-
-<!-- 🐍 SNAKE -->
 
 <h2 align="center">🐍 Contribution Snake</h2>
 
 <p align="center">
-  <img src="https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.svg" />
+  <img src="https://github.com/eklavyamisra/eklavyamisra/blob/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
-
-<!-- 💀 TERMINAL STYLE -->
 
 <h2 align="center">💀 Terminal Mode</h2>
 
@@ -145,8 +127,6 @@ Available 🚀
 
 ---
 
-<!-- 💡 QUOTE -->
-
 <h2 align="center">💡 Philosophy</h2>
 
 <p align="center">
@@ -155,24 +135,6 @@ Available 🚀
 
 ---
 
-<!-- 🔥 FOOTER -->
-
 <p align="center">
   ⭐ Star my repositories if you find them useful!
 </p>
-
-
-<!--
-**eklavyamisra/eklavyamisra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
